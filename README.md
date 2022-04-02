@@ -1,5 +1,5 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/2926985105/1495391597)](https://am4nkapoor.github.io)
-
+<!--[[![MasterHead](https://pbs.twimg.com/profile_banners/2926985105/1495391597)](https://am4nkapoor.github.io)
+](url) -->
 <h1 align="center">Hi 👋, I'm Aman Kapooor</h1>
 <h3 align="center">A Passionate Frontend Developer From India!!</h3>
 
