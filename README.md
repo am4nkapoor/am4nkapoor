@@ -18,7 +18,7 @@
 <a href="https://twitter.com/am4nkapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="am4nkapoor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-kapoor-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kapoor-" height="30" width="40" /></a>
 <a href="https://instagram.com/amu_kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amu_kapoor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc-l04nrmpweoq7rrdxc_s6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-l04nrmpweoq7rrdxc_s6w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/MrAmanKapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-l04nrmpweoq7rrdxc_s6w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
