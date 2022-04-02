@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer From India!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am4nkapoor&label=Profile%20views&color=0e75b6&style=flat" alt="am4nkapoor" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/am4nkapoor" target="blank"><img src="https://img.shields.io/twitter/follow/am4nkapoor?logo=twitter&style=for-the-badge" alt="am4nkapoor" /></a> </p>
